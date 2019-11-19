@@ -1,0 +1,46 @@
+Today we’ll begin our discussion of pricing policy with a focus on the absolutely fundamental
+questions surrounding the basis for the price itself.
+While we all interact with prices and think about prices every day -- is this the best
+price for milk?
+Is it worth going to unlimited data at that price?
+-- many students I come into contact with are somewhat confused by price setting.
+It’s just not always clear where or how to begin.
+So, we’re going to start right at the beginning by understanding what considerations go into
+our choice of price and what our first steps should be in choosing the right price for
+our product or service.
+I want you to have a product in mind.
+It can be anything.
+In fact, it doesn’t even need to be a product.
+It could also be a service.
+And now, your job is to figure out what the price should be.
+Where do you start?
+I realize this is a complicated question because there are so many possible answers.
+However, the answer is a simple one and it nearly always holds: we start by looking at
+value.
+In other words, we figure out the consumer’s willingness to pay for the product.
+Next, we have to worry about the role of costs.
+While the willingness to pay is the upper end of possible prices I can charge, the variable
+cost reflects the low end of that range.
+We can't price above value and we shouldn't price below variable cost.
+Then, we factor in competition.
+The more pronounced the competition is, the closer I will be to the lower end of the price
+range I’ve defined.
+Finally, and closely related to value, I need to think about the shape of the demand curve.
+Economists talk about a concept called price elasticity which captures the sensitivity
+of demand to price changes.
+Highly-elastic demand means that for a small change in price I see a big change in quantity.
+On the other hand, inelastic demand means that even for some fairly large range of price
+changes, quantity will not change substantially.
+Generally speaking, prices will be higher under inelastic than elastic demand.
+There’s one last point I want to make about costs and their impact on pricing.
+Typically we consider only variable costs in this process.
+Theory would tell us that fixed costs should have nothing to do with our prices because
+they are, in some sense, a sunk cost.
+From a normative perspective I would tell you not to think about your fixed costs when
+formulating prices, but at the same time, your competitors may do so.
+Just to summarize, the first thing you should think about in pricing is value.
+What is the market willing to pay and how will that differ across customers?
+Then, what do my variable costs mean in terms of the lowest price I can consider charging?
+How aggressive is my competition?
+Can I price at the high end of the possible range?
+And finally, how price elastic is this market.

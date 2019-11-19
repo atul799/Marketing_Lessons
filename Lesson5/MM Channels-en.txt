@@ -1,0 +1,166 @@
+Managing a channel is a critical -- though not always highly-appreciated -- aspect of
+marketing.
+It begins with the fundamental understanding that we and our channel partners simply have
+different objectives.
+What this means is that, for us to succeed, we need to, number one, design the channel
+in a way that reflects our goals as well as those of the channel.
+And, at the same time, we also need to manage the channel -- designing incentives, handling
+conflicts -- to ensure that our partners are acting in a way commensurate with the efficient
+and effective operation of the entire system.
+To frame the issue here, let’s take a look at a few different channel structures of varying
+degrees of complexity.
+On the complex side, consider a channel for the sale of Chateau Margaux wine.
+After they’ve grown the grapes and made the wine, they sell it to a broker, who sells
+it to an importer, who sells it to a retailer like a restaurant or a wine shop.
+Finally, they sell it to wine drinker.
+On the simpler side, sometimes manufacturers sell directly to customers.
+For example, Fidelity creates and manages its own mutual funds and sells them directly
+to investors.
+In the middle we see two and three step distribution channels, like Aqualisa that manufactures
+shower heads.
+They sell those shower heads to showrooms who in turn sell them to consumers.
+Channels come in all shapes, sizes, and degrees of complexity.
+We'll look at what channels need to do, challenges associated with channel design and management,
+and channel conflict and its management.
+So, let’s imagine we have a product we want to sell.
+Let’s say we sell lacrosse sticks for example.
+And we need to figure out a way to get these sticks -- which we manufacture right here
+in Maryland of course-- into the hands of our customers all around the US and, little
+by little, perhaps the world.
+So, what do we need to do to accomplish this?
+Well, at a high level we need four different sets of tasks to be performed.
+We first need somebody to generate demand, to make customers aware of our great products.
+This ensures that our sticks are represented in the consideration sets of our target customers.
+Conditional on that, somebody has to fulfill demand.
+Once people decide they want to buy from us, they have to be made available.
+Third, somebody has to follow up and make sure people are happy and any problems that
+arise post purchase are dealt with.
+Then finally, we need somebody to gather and analyze market feedback over time so we can
+learn about the market and figure out what to do next.
+Now, once we’ve figured out what needs to get done -- and note that this is going to
+look very different for different products….for lacrosse sticks, customers need to be able
+to try them out, see how they feel.
+For airline tickets, they need the times, availability and prices -- we next need to
+know who's going to do these things?
+On one hand, we could do all of them.
+If we do this, we also need to decide through which channel they’ll be accomplished.
+For example, do we facilitate showrooming, providing people with opportunities to play
+with our sticks and then ordering the one they like online?
+Or, do we facilitate webrooming where customers can shop our website online and configure
+their ideal stick and then pick it up offline in one of our stores?
+Of course, there are nearly-unlimited combinations of options.
+Usually, though, we enlist the help of others.
+That is, we allocate some set of responsibilities to various members of the channel.
+For example, we might sell through retailers who both generate and fulfill demand.
+We can use this framework, called the hybrid grid, developed by Moriarty and Moran, to
+help identify and think through the options available to us.
+The framework makes two important points.
+One point is that, in designing a channel we want to begin by thinking about the tasks.
+We want to first write out and think about what needs to be accomplished and then to
+assign those tasks to various players or constituencies.
+It also makes the point that there needs to be at least one check mark in every row.
+In other words every one of these tasks needs to be accomplished by someone.
+This can be an issue when we have discussions of disintermediation, or removing a player
+from our distribution channel.
+What has to be recognized is that the task accomplished by that player can't be eliminated,
+somebody's got to fulfill demand for example.
+We can rearrange these tasks but we can’t eliminate them.
+Disintermediation can be great in making the channel more efficient, but tasks cannot be
+eliminated completely.
+OK, so tasks are the building blocks of channel design.
+Once we’ve designed our channel then the next challenge is how do we manage it?
+How do we make sure that those people or organizations or firms with tasks that we’ve assigned
+to them, actually perform them in the way we hope?
+Now, you might ask, “why is this a problem?”
+Why can’t we just count on the salespeople at Modell’s to sell the lacrosse sticks
+the way we want them to?
+Well, because their business is not to sell our lacrosse sticks.
+Their business is to sell sporting good of all types and brands to all different types
+of customers.
+They’re solving a very difference problem than we’re solving.
+They may have very different priorities and, as a result, we have what we call “misaligned
+incentives.”
+We want different things.
+The challenge from a channel management perspective, is how do we coordinate the channel?
+How do we create a context in which our channel partners will make choices in line with what
+we would like them to make.
+So what I want to do is walk through the most-common sources of conflict born out of this mis-aligned
+incentive -- we often call this “channel conflict” -- and some possible solutions
+for addressing them.
+At a basic level, it is common for firms to deal with what’s called “vertical conflict”
+between the channel and the manufacturer.
+So for example between HP and Best Buy.
+HP might want Best Buy to train their sales people more than they’ve been training them
+so far, and Best Buy might want HP to advertise more to create more demand.
+Again, given their different roles and objectives, they rarely agree on the “right”levels
+of training or advertising.
+So, what can HP do to make sure that Best Buy salespeople have the product knowledge
+they feel they need?
+Well, at a basic level, they might just use power.
+“Either you train your salespeople to the level we expect you to, or we won’t sell
+through your channel.”
+Of course, not all brands have this kind of power.
+You might, instead, try to write a contract with real penalties or incentives to encourage
+the right behavior.
+This may sometimes work but is difficult to implement in complex environments in which
+actions are so highly variable.
+When all else fails, of course, we might just do it ourselves...we might either hire our
+own salespeople to work on the floor at BB or perhaps hire a training company to go in
+and train the BB salespeople for us.
+Now, there is also horizontal conflict.
+This is conflict that occurs in a channel, among channel partners of the same level.
+So again, imagine we're HP selling the same printers through now not only Best Buy but
+also Staples, and Target.
+We might find that there’s price competition among those channel partners, and so Best
+Buy complains to HP that HP wants training and support for their products, but Best Buy
+can’t make money because Target is slashing prices, and they need to compete with them.
+This price competition among channel members hurts the manufacturer because it means that
+the channel partners won't invest in other things like marketing sales training.
+I might have the power to deal with it, and say to Target, look either you cut it out
+or you don't sell my product.
+There's also a concept called branded variants, a sort of cosmetic differentiation of products
+that softens comparison by consumers.
+So for example in consumer electronics you might have the same product functionally,
+but one might have the volume knob on the right on one model and on the left on another.
+While this doesn't really impact the quality or the function of the product, what it does
+is it makes it harder for consumers to compare across the products and thereby softens price
+competition.
+Another approach to deal with this horizontal conflict is something called resale price
+maintenance.
+This works when a manufacturer creates a pool of marketing funds, and tells, say, Target
+that it will give them $50,000 for advertising, but they can’t advertise below a certain
+price.
+So it doesn't say that you can't charge whatever price you want to charge (this would be illegal)
+but it just says that the manufacturer won't pay for the advertising if the price advertised
+is below a certain level.
+Of course, this creates an incentive to charge the price at a desired level.
+Finally, the manufacturer also faces competitive conflict with distributors.
+So, Imagine that a lot of University of Maryland professors go to Best Buy to get printers.
+But yet at the same time, HP is selling directly to UMD.
+This means that HP is now in competition with it’s own channel, with Best Buy.
+And so Best Buy says, "Hey, you want me invest in training and do marketing, and all this
+stuff, but now you're competing with me?
+How can you justify that?”
+The firm deals with this in a number of different ways.
+So number one, typically we're not going to price compete with our channel partner.
+Typically HP is never going to undercut Best Buy.
+As a result, we're more of a price follower than a prie leader in this situation.
+Also, commonly you’ll see manufacturers carving out either a segment, or a type of
+customer, such as those with academic or government accounts, and leaving the rest of the customer
+base to the retailers.
+What that does is it mitigates any direct competition.
+They make it clear that “these customers are yours and these are ours.”
+Finally, sometimes, the manufacture will pay double commissions -- that is,pay their direct
+salespeople for making any sales to UMD and at the same time compensating Best Buy for
+the sales they might have missed.
+So, in summary, our channels policy has two parts -- channel design and channel management.
+In channel design, I need to begin with a detailed understanding of the tasks I need
+accomplished and then allocate them to those I feel are best positioned to accomplish them.
+Channel management, on the other hand, is about making sure these jobs get done the
+way we want.
+We discussed the fact that our incentives are always mis-aligned and this leads to conflict.
+And then we went over some different approaches for dealing with the conflict.
+Channels are really complicated.
+So I hope this video has helped you to get a feel for some of the important decisions
+and significant challenges that one faces in the channels domain.
+

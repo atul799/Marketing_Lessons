@@ -1,0 +1,93 @@
+Today, we’ll discuss the benefits and drawbacks of having a broad product line.
+The core question is, how many products do you want to offer; how do you manage your
+product line?
+As you might imagine this is a balancing act between factors that favor longer line vs
+shorter lines.
+Let’s begin with the positive aspects of a broad product line.
+First, product diversity.
+With a variety of different products, we are able to meet more customer needs.
+Creating more value which should translate into higher profits.
+Another argument for having many products is the possibility of benefiting from scale
+economies.
+For example, if I am producing cars that are based on the same fundamental chassis design,
+by offering multiple models based on that same chassis I’m able to learn quicker and
+lower production costs.
+For example, many Lexus and Toyota models share the same underlying chassis.
+Another positive benefit of a broad product line is credibility in comparative selling.
+For example, imagine you are selling appliances and all you sell are GE refrigerators.
+A customer comes in asking for recommendations, and you respond with “you should buy this
+GE refrigerator, they’re the best.
+They’re better than Whirlpool for what you’re looking for.”
+But the customer might reasonably question whether this is an unbiased, objective opinion.
+On the other hand if you sell both GE and Whirlpool, and you tell the customer GE is
+the best choice, that statement comes with more credibility.
+So generally, broader product lines might come with more credibility in comparative
+selling.
+Another argument that has been made is that the broader the product line, the more successful
+I will be at competitive preemption.
+In other words, stopping other brands from entering the market.
+There was a study done in the sugared cereal market where researchers explained the reason
+why there are so many cereal products that are only slightly different from each other
+is that there is only finite shelf space, and the more products established brands offer,
+the less open space there is on the shelf and therefore the harder it is for new brands
+and products to come in.
+Finally, in some cases broader product lines can work as a hedge against economic fluctuations.
+For example, it might be the case that some products do better in up markets, and some
+products do better in down markets.
+By offering both products, you might reduce the variation in your sales revenue.
+So those are arguments why I would want a broad product line, now let’s talk about
+why fewer products might be better.
+To begin, broad lines might cause customer confusion.
+Customers often complain that all of the companies products seem the same, and they can’t figure
+out which to buy.
+With a more narrow line you can often avoid this customer confusion or frustration, and
+possibly deliver higher satisfaction in the process.
+Additionally, a common argument against introducing new products is cannibalization; meaning the
+company experiences a drop in sales of one of it’s products due to the introduction
+of another product by the same company.
+I want to caution that this is an argument we hear a lot, but is often misguided.
+If you’re going to make the cannibalization argument, it’s critical to make sure your
+counter factual is correct.
+Here’s an example to make this clear.
+Apple is always introducing new phone products.
+Some argue they make a mistake by keeping the older generation phones around when they
+introduce a new one.
+So when they introduced the iPhone 5, why didn’t they get rid of the iPhone 4?
+Doesn’t that cannibalize the iPhone 5?
+Don’t some people who might have bought the iPhone 5 just keep buying the iPhone 4?
+As it turns out, no.
+As it turns out that’s not the right counterfactual.
+iPhone users typically upgrade to the next iPhone.
+Most of the iPhone 5 buyers come from the iPhone 4, so it is not that the iPhone 4 is
+cannibalizing the iPhone 5.
+In fact, the iPhone 4 draws a consumer base from different platforms.
+If you look on this lower bar chart here, you can see that the previous platform for
+the iPhone 5, is iPhone.
+But the previous platform for the iPhone 4S is android, smartphones, and feature phones.
+So again, the correct counterfactual here is not cannibalization of iPhone 5 sales,
+but it is drawing customers from completely different platforms.
+Another argument for limiting the number of products is based on competitive balance.
+Some companies are hesitant to introduce a new product that might encroach on a competitor’s
+turf.
+They want to keep harmony between companies to prevent too much price or marketing competition.
+Finally, another drawback faced by companies with broad product lines is the issue of resource
+allocation.
+The company now has to figure out how to allocate the marketing budget across all of their products.
+If there is one product, it’s an easy problem, but with more products it becomes more difficult
+to determine which products receive which portion of the budget.
+The most common approach to allocating marketing resources is an “eat what you kill” approach.
+For example, advertising to sales ratios are commonly used to allocate advertising funds;
+in other words, products with the highest sales get the highest advertising dollars,
+the most resources.
+But this isn’t the right way to do it.
+What we want is to invest any resource, marketing resources for example, according to expected
+marginal returns.
+Meaning, we want to invest the next dollar where it will yield the highest return.
+In practice, however, this is not what happens.
+Why not?
+Well, because it’s easier to either allocate resources based on average returns, allocate
+resources on sales, allocate resources based on past history, than it is to go out and
+estimate marginal responses.
+The main message here is that long product lines may confer on the firm great benefits,
+but it’s equally important to consider the costs associated with them, including the
+added complexity they introduce to the organization.

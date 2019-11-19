@@ -1,0 +1,41 @@
+In this video, we will look at a couple of very common generic strategies for pricing,
+especially in a new product context.
+The two most common approaches for pricing in such a situation are called “skimming”
+and “penetration pricing.”
+They are in many ways mirror images of each other.
+First, let’s look at skimming.
+In skimming, we initially set a high price with hopes of “skimming off” or selling
+to those customers that have the highest willingness to pay.
+Then, over time we’ll walk down this demand curve, decreasing prices little by little
+as we sweep out the surplus under the demand curve.
+When the first plasma tvs came out in the late 90’s, they went for up to $15,000.
+Today, you can buy them -- with far better picture quality for well under $1,000.
+Penetration pricing is the opposite.
+The firm sets a low price right from the outset, and sells to the mass market at an affordable
+price.
+This is a more-common strategy that we typically see every day.
+So, how should you choose?
+When is one better than the other?
+Well, on one hand, a skimming strategy requires the firm to have a strong competitive position.
+Why is that?
+Skimming relies on the idea that prices will decrease over time.
+But for this to work in practice, the firm needs to have lead time over its competition.
+That is, the firm needs time to walk down that demand curve and successively lower prices
+without any expectation of a price war.
+It's also typical that we see a skimming strategy in less elastic markets, relatively speaking.
+In these markets, because demand is less sensitive to price, there’s less incentive for the
+firm to cut price quickly.
+[pause] On the other hand, when consumers are highly price-elastic you're more likely
+to see a penetration pricing strategy.
+Penetration pricing results in a quick buildup of share.
+This may be beneficial if there are possible scale economies.
+That is, how quickly does my cost of production decline as the volume of sales increases.
+In the case of manufactured goods, this is often substantial.
+As a result, you can see that there would be a significant advantage to building that
+scale early, and this in turn would be facilitated by penetration pricing.
+The firm might also consider penetration to be preferable if they’re worried about competitors
+entering the market quickly.
+In this case, they really want to build up that installed base right away.
+So, as always, the answer is not a one-size-fits all.
+What’s we need to do is appreciate the important differences between penetration and skimming
+and to carefully consider when each is most appropriate.

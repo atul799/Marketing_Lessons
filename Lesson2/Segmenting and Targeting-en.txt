@@ -1,0 +1,134 @@
+I want to talk about “marketing strategy” but first let’s take a quick step back to
+make clear everything we’ve done up to this point.
+The marketing process begins with careful analysis and insights.
+We learn about the customer.
+What are her preferences?
+Her perceptions?
+What process does she go through while making a decision?
+We understand our competitors.
+What are they good at?
+What are they likely to do?
+We assess where we stand with other organizations with whom we collaborate.
+Partners, for example.
+Or distributors.
+What are their incentives?
+Are they in conflict with ours?
+We inventory our own strengths and weaknesses, of course.
+And, where relevant, we make sure we appreciate what might be changing in the overall context.
+This might reflect economic factors or perhaps political factors.
+Based on all these insights, we can then formulate a marketing strategy which we’ll use to
+guide all of the actions or tactics we’ll eventually choose.
+In a sense, I like to tell marketing students to think about marketing strategy as a fundamentally
+transformative step in which we take all the insights, all the information we've gathered,
+and transform those insights into actions.
+We'll begin by focusing and discussing segmentation.
+At the root of segmentation is the very simple idea that people are different and often those
+differences reveal patterns or groupings.
+We typically focus, in segmentation, on differences in preferences, or tastes.
+To segment the market, we need to compare the different tastes of each customer and
+get insight as to what they want in their products.
+So, to see what I mean, it might help to look at it graphically.
+This is called a Taste Space, where the different dimensions reflect different levels of attributes.
+On the x-axis, just as an example, we have power.
+On the y-axis, we have speed.
+And so each X in this space represents a customer and those to the right like high power while
+those to the left like low power.
+And so what we can see here is that there naturally arise two potential segments.
+Segment one, in the north-west quadrant, seems to like high speed and low power.
+Segment two, in the south east prefer high power but low speed.
+Why is this useful?
+Why do we want to go through the process of putting people into buckets like this?
+Because it will ultimately help us decide whom to target and focus on.
+A common response to this is, “Why target?
+I want to sell to everybody?”
+You know what?
+I agree.
+With very few exceptions, I would be happy to sell to anybody.
+However, this is really a different point.
+While I’ll sell to anybody, I absolutely do not want to market to everybody.
+And you can see why this is the case right here.
+Marketing to segment one means promising high speed and low power, building products that
+deliver on that promise and communicating that your products do this.
+What happens if I try to market to both segments?
+First off, what will my product look like?
+Maybe it will have medium levels of speed and power?
+OK but that might not be compelling to any customers, unless I’m a monopoly.
+Second, I really open myself up to competition.
+In particular, competitors who recognize the importance of targeting could make far more
+compelling arguments to both segments.
+Just to reiterate, by engaging in segmentation and targeting, number one, I might deliver
+more value to customers.
+I can engage in more compelling communication because I can talk about those dimensions
+or those attributes that those customers, in that segment, care most about.
+In a dynamic sense, I might prevent future competitive intrusion because I'm meeting
+the needs of my chosen segment.
+As a result of all of these things, I'm more likely to be able to retain customers with
+higher probability over time.
+So that’s the reasoning behind segmentation and targeting.
+How do we actually do it?
+This is a bit complicated because we often hear about firms creating segments using many
+different approaches.
+The most common is probably demographics.
+We can segment the market by affluence, by gender, by religion, etc.
+We might also segment the market geographically.
+A great example of this is the bodega in New York City.
+As you walk through New York, you'll find a Bodega on just about every corner.
+That Bodega caters to the people who live within about a 1-block radius of their store.
+Their communication, their product selection, all are focused on that specific geographic
+segment.
+You might also have heard about firms segmenting the market along behavioral lines.
+That is, they might look at past actions that the customer has taken and segment them that
+way.
+First time buyers, loyal customers, repeat customers, heavy users versus light users.
+These are all examples of behavioral segmentation.
+So, again, which is best?
+How should you do it?
+My main message here really is to go back to the taste space.
+That is, we want to, where at all possible, focus on underlying preferences.
+All of these other approaches — demographics, geography, behavior — are simply observable
+proxies for underlying differences in tastes.
+To make this more concrete, here’s an example of clear benefit segmentation.
+This is the iced coffee product.
+And we see segmentation along preferences — for taste vs for high caffeine.
+However, how do you actually implement this?
+Once I’ve decide that I’m targeting, say, those that prefer high caffeine, how do I
+find them?
+Well, then, I need to find some proxies and maybe those are, again, geographic or demographic,
+for example.
+After segmenting the market, we move on to targeting.
+What do I mean by ‘targeting a segment?’
+Targeting a segment means tailoring the marketing actions, tailoring the four P's, (product,
+place, promotion, price), to that specific segment.
+I formulate products for those segments that I'm targeting.
+I might price uniquely and specifically for different segments.
+My promotion, the media I choose, the message I choose, will all depend on the segments
+I'm targeting.
+Of course, I might distribute through different channels depending on the segments I'm targeting.
+If we think about the market as a pie and segmentation as the process of cutting it
+up, the next question becomes: Which slice do I want?
+That is, which segment do I want to target?
+Of course, we're all going to first consider the size of that segment, how fast its growing,
+and at least as important, our competitive advantage.
+It might be the biggest segment available, it might be the fastest growing, but if customers
+are seeking a benefit that requires expertise I don't have, it might not be the most attractive
+approach.
+I would also suggest that you want to be very careful about over-segmentation.
+Always be asking yourself to what extent are the various segments truly distinct?
+Perhaps I can aggregate multiple segments into one, and we see this all the time.
+At the same time, you might want to target multiple distinct segments at the end of the
+day.
+Perhaps I want to market to both the high-power segment and the high-speed segment with different
+marketing strategies?
+In considering any multi-segment approach, we want to think about how different they
+are, and to what extent the same set of skills is associated with success in each of those
+segments.
+To the extent that the underlying messages would need to be very different, you might
+want to the addressability of each segment.
+Can I reach each segment individually and communicate the differential benefits of my
+product to each?
+In summary, markets are almost always far too complex, characterized by far too much
+heterogeneity, to make a one-size-fits-all approach optimal.
+We almost never want to try to be all things to all people.
+Instead, we want to first decide how to slice the pie.
+Along which dimensions of preference can I create meaningful groupings of distinct customers?
+Once we do this, we choose one, or some, of those segments to target.

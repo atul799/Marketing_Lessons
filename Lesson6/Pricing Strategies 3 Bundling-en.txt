@@ -1,0 +1,77 @@
+I’ll talk today about a very common pricing approach called bundling.
+Bundling,or selling products as a package, is something we see each and every day in
+different forms.
+To appreciate the firm’s problem, let’s look at an example.
+Imagine that I'm in a business where I sell two products: hot dogs and beer.
+Sounds like an exciting business.
+Now, let's make it even more specific and say I'm the New England Patriots.
+How should we charge for these two products?
+One option is a la carte pricing.
+I could charge, say, $10 for a beer and $7 for a hot dog.
+Or I could bundle.
+This means you can only buy or you have the option to buy, a bundle comprised of a beer
+and a hot dog at some price, typically lower than the a la carte price.
+Again, we see bundled pricing almost everywhere: for example McDonald's Happy Meals.
+Historically, most cable companies provided content in bundles.
+As a final example, University of Maryland degree programs are also an example of bundling.
+You might want to only take marketing strategy, but you can't.
+You've got to get an entire MBA degree if you want to take this course.
+So, why is bundling so common?
+There are four main reasons: heterogeneity in preferences, price discrimination, leverage,
+and differentiation.
+You should think of these as contexts in which bundling may be a prefered option.
+Let me give you an example in a context of preference heterogeneity.
+Imagine these are our two customers and they each have a willingness to pay for each of
+the two products.
+The gentleman on the left is willing to pay $10 for beer but only $1 for a hot dog.
+On the right, he's willing to pay $1 for a beer but $10 for a hot dog.
+This example is extreme preference heterogeneous, but it illustrates the concept well.
+How should I price?
+If I do a la carte pricing, the optimal prices will be $10 for beer and $10 for a hot dog.
+I'll sell one beer, one hot dog, and make $20.
+On the other hand, I could bundle price.
+I could say "The only way you can do business with me is if you pay $11 for a beer and a
+hot dog."
+Then, they'll both buy the bundle and I'll make $22.
+It should be clear here that just because they had **heterogeneous preferences** - and extreme
+heterogeneous preferences - I was able to bundle price and do strictly better than I
+could with a la carte prices.
+A second reason for bundling is **price discrimination**.
+Price discrimination means that we can offer multiple pricing options, one of which is
+bundling, and we may do even better.
+Let's imagine we’re with our same customers at the Patriots game.
+We'll add a third customer who has more moderate preferences and is willing to pay $8 each
+for a hot dog and a beer.
+Let’s go through the same exercise.
+First, we can try a la carte prices, where the optimal price would be $8 for a beer and
+$8 for a hot dog.
+The man on the left would buy a beer, the man on the right would buy a hot dog, and
+our new customer would buy both a hot dog and beer.
+In total, we would sell two beers, two hot dogs, and make $32.
+Second, we can try only bundling.
+The optimal bundle would again be $11 and we would make $33 in total because everybody
+would buy the bundle.
+Finally, we can offer both a la carte prices and bundle prices.
+We return to our $10 a la carte prices for our original customers, but the bundle now
+becomes $16 because of our new customer.
+By offering both options, we’ll now make $36.
+Because of the difference in preferences and our method of price discrimination, the bundling
+option lets us do much better.
+Third, another very common reason for bundling is **leverage**.
+This might be what you first thought of when I introduced bundling.
+This involved using relative strength in one product market to raise demand in another.
+A common example of this is in the pricing policies of many theatres.
+While some a la carte tickets may be available, successful theatres often book a small number
+of well-known or highly-regarded productions which are bundled with a number of other lesser-known
+performances in a “season’s ticket.”
+Thus the “pull” of the former creates additional demand for the latter.
+The final reason researchers have argued for why we see bundling is **differentiation** ; sometimes
+it’s just better to be different.
+It reduces competition as well as necessary investments in marketing tactics, including
+price cuts.
+So what we see in some industries, such as automotive, is that some manufacturers do
+a la carte pricing and others do bundling in an effort to access different segments
+and thereby, again, mitigate excessive competitive battles.
+So to summarize, when deciding whether to bundle or not, I want to ask whether any of
+these condition exist: preference heterogeneity, opportunities for price discrimination, a
+strong product with leverage, or simply differentiation from a competitor.

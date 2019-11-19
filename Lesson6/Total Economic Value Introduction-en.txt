@@ -1,0 +1,51 @@
+Now we’re going to talk a bit more about how to think about and understand the value
+we create for our customer.
+And we’ll talk about how value, and specifically economic value, is a better starting point
+than our cost for setting our price, especially in a B2B or business to business context.
+We’ve already identified four reasons that cost plus pricing doesn't work.
+Now let’s take a look at a different approach.
+Value pricing means that we price our product based on the value it creates for our customers,
+specifically we work to understand the value that a product, service or experience creates
+for its targeted customer segment.
+This value is called the total economic value, or the objective value, and it provides a
+ceiling for the price we’ll set.
+On the opposite end of the pricing arrow here, COGS is our most typical price floor.
+In rare circumstances we might price below our cost, for a limited time for strategic
+reasons.
+But this clearly isn’t a viable strategy in the long term, and in some regions and
+situations it can be illegal.
+So let’s use COGS as our price floor.
+Somewhere below the total economic, or objective value, is the perceived value, the value of
+our offering as perceived by the target customer.
+We hope this is above what it costs us to make the product.
+If not, then this isn't an attractive market to be in, or we’ve got some heavy lifting
+to do to educate our customer about our value.
+Both the total economic value and the perceived value are influenced by our competitors prices,
+or what we’ll call here, the reference price.
+This is the price of the next best alternative, what our customers would buy if they didn’t
+buy our product.
+Perceived value is also influenced by our marketing efforts.
+Our marketing can drive perceived value up by educating our potential customers on how
+our product can create value for them.
+The price we set is typically below the perceived value.
+Why is that?
+Because we need to give the customer the opportunity to capture some of the values that they perceive,
+to pay less than the value they think they’re getting.
+If not, then they have no incentive to make a purchase.
+And the difference between the price we set and our cost of good sold is our incentive
+to be in this business.
+That’s our profit.
+Now you should, and you can know your cost of good sold, but how do you determine the
+objective value?
+Thomas Nagle and his coauthors have outlined a process in their book, The Strategy and
+Tactics of Pricing, and we’ll provide a quick overview of that here.
+So let’s go through an in-depth explanation of this one point on the pricing arrow.
+The objective or total economic value.
+Again, this process is most relevant in B2B markets.
+To calculate this value, we need to know three things.
+Number one, the reference price.
+What’s the price of what the customer would buy if he didn’t purchase our product?
+Number two, how is our product better than the alternative, our positive differentiation?
+And number three, how is our product worse than the reference product, our negative differentiation?
+While it’s only three numbers, it will take a great deal of work to get the data and market
+insight to calculate this total economic value or TEV.

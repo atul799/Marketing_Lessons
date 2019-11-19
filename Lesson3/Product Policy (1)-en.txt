@@ -1,0 +1,82 @@
+A useful way of thinking about a product is to consider the different types of value it
+delivers.
+The concept we often use is called the “augmented product”, which says that there are three
+types of value associated with every product.
+At the most basic level, it delivers functional value.
+Essentially what does that product or service do for me?
+At the next level, we can think about experiential value: while it’s delivering functional
+value, how does it feel?
+How does it taste or smell or sound?
+Then finally, symbolic value.
+We can ask how does that product make me look while using or buying it?
+Not just how does the product look, but how does it make the customer look?
+For example, consider the product Snapple.
+At a functional level, it provides hydration.
+That at the end of the day is what the product is meant to do.
+On an experiential level, many people think Snapple tastes good.
+Then finally, at a symbolic level, how do I look drinking Snapple as compared with another
+source of hydration?
+I want to emphasize that even though I've drawn these as concentric ovals, it's not
+necessarily the case that consumers will make decisions or weight things in this order.
+In other words, it's not necessarily the case that consumers will first figure out what
+products provide the most functional value and then only choose a subset of those and
+move on to figure out which are best in the experiential level.
+In fact, that's not in any way the case.
+We know this intuitively.
+Fashion products, for example, often provide minimal functional or experiential value,
+but the symbolic component is weighted most heavily.
+I also want to note that even though we may think of the high weighting of experiential
+and symbolic value as a consumer phenomenon because they may appear to be almost irrational,
+this would be a mistake.
+In fact, we still see symbolic value being weighed quite heavily even in business to
+business purchases.
+For example, in a buying organization there's often significant concern for status and prestige.
+So buyers consider to what extent making one decision versus another, one vendor versus
+another for example, might affect how they appear.
+Even in B2B, we need to be aware that the value delivered by a product may go well beyond
+the functional!
+There are many challenges in product design, and in particular, the most salient challenge,
+at least at the early stage of design is, how do I know what people want?
+I have lots of different ways that I could innovate, lots of different features and benefits
+I could deliver through the product.
+Which ones should I choose?
+I think it’s fair to say that there's an emerging idea or belief that customers really
+don't know what they want.
+I don't want to criticize Steve Jobs, but I do take issue with a statement that he famously
+made; that it isn't the customer's job to know what they want.
+I'm going to disagree with that, or at least disagree with some of the implications that
+people have drawn from that statement.
+I would draw a distinction between problems and solutions.
+I believe that customers know what problems they have.
+So in a product design sense, customers know precisely what benefits they're looking for.
+They know what problems they have in their lives, and they know that they want a solution
+to that problem.
+What they don't know is what features we ought to build into our products in order to provide
+those benefits.
+In other words, they don't really know how our products can solve or might be able to
+solve the problems they have, but they know what their problems are.
+So I would argue it is the customer's job to know what they want, but it's our job as
+marketers, our job as product designers, to figure out and communicate how our products
+can solve those problems.
+This distinction has implications for the entire range of product design.
+For example, in interpreting research, when a customer tells you that they want a specific
+product feature, they’re not really telling you that they want the product feature, they’re
+telling you they have a problem that they think can be solved by this feature.
+With that in mind then, how do we figure out what people care about.
+How do we figure out what problems they're trying to solve?
+Of course, we need to engage in market research.
+There are many possible market research methodologies you could pursue.
+There's really a continuum from purely qualitative research, one on one interviews, for example,
+or in a group setting, a focus group where we sit down and have an unstructured discussion
+all the way to quantitative research like surveys, where we have large, preferably random
+sample of subjects that allow us to assess statistical significance.
+And I'm not going to tell you that one is systematically better than the other.
+In fact, they serve very, very different purposes.
+A focus group or an interview is a great way to learn something new...to hear something
+from a customer that you’ve never thought about before.
+Then, you might take that idea and run a survey or another quantitative technique in order
+to figure out whether it makes sense -- whether it achieves statistical significance -- in
+a larger sample.
+So a general prescription that you want to think about is to use qualitative methods
+at the outset of the product design process, and then move towards a more quantitative
+approach.

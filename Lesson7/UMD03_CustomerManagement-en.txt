@@ -1,0 +1,105 @@
+In this screencast we’ll talk about customer management.
+Okay so you may be asking, “what is customer management?”
+Well, customer management is a way of thinking about the relationship between the firm’s
+investment choices on one hand, our service levels for example, our loyalty programs,
+and long term outcomes like lifetime customer profits on the other.
+The key difference as compared with what we’ve talked about at this point is that here we’re
+focusing on a dynamic, long-term horizon.
+Okay, let’s begin with thinking about, what the possible relationship might be among these
+various components.
+Okay this is the typical model.
+This shows how we might view the relationship.
+As a firm, let’s say we increase our service, and you know, this should lead to higher levels
+of satisfaction, which should lead to higher levels of loyalty by customers, and then ultimately,
+loyal customers should lead to higher profits over time.
+Okay, this seems reasonable, right?
+But does it really make sense?
+Is it always true?
+First, let’s look at this downstream relationship which claims that higher levels of loyalty
+will lead to higher levels of profit.
+Again, is this always the case?
+Well, there are a couple of issues that we want to keep in mind here.
+Number one is the definition of loyalty.
+What do we mean when we say an ‘increase in loyalty?’
+Well there are at least two different ways to think about loyalty.
+One is called behavioural loyalty and the other is called attitudinal loyalty.
+Behavioural loyalty is exactly what it says, we infer or measure customer loyalty by looking
+at behaviour.
+For example we might look at customers that spend more time at our restaurant, or customers
+that choose our credit card more commonly than our competitor’s credit card or, whenever
+a customer chooses to do a search online, they choose our search engine, and not somebody
+else’s search engine.
+This is just, again, observed behaviour.
+Attitudinal loyalty on the other hand is harder to measure.
+While behavioural loyalty is just measured by again observing the customer, Attitudinal
+loyalty is typically assessed with a survey, and we ask a series of questions of the customer
+to assess their true connection to the firm.
+So it turns out that while behavioural loyalty is the best way to assess loyalty as, again
+you might imagine since it's easier to measure, it doesn’t predict very well differences
+in customer profitability.
+Attitudinal loyalty on the other hand is a somewhat stronger predictor.
+So while we probably believe that loyalty and profit might be related in this way, we
+have to be very careful what we mean by loyalty, how we define it, and again, how we measure
+it.
+The second issue here is really the underlying theory that gives rise to this prediction
+that an increase in loyalty should lead to an increase in profit.
+So that theory usually sounds something like this, “Customers are more loyal, therefore
+they may have higher switching costs, number one, or maybe we don’t have to spend as
+much money trying to market to them or serve them, and as a result they become more profitable,
+number two.”
+So it turns out that these argument are not necessarily always true.
+Research has shown, for example, that it's not necessarily the case that due to higher
+switching costs, customers will necessarily pay a higher price.
+Similarly again it's not necessarily the case that it costs less to serve loyal customers.
+Often, for example, they understand that they have power.
+They understand that they play an important role in the firm’s profitability, and maybe
+they want to exploit that power.
+They also may simply disapprove of the firms attempts to exploit the higher switching costs.
+So again, while this may be a framework that works again intuitively most of the time,
+we want to be careful to not assume that these relationships always hold.
+Moving upstream a little bit, does satisfaction lead to higher customer loyalty?
+Well we hope this is true.
+And in fact a lot of empirical research has supported this idea that if we can improve
+customer satisfaction then in fact it will lead to higher levels of loyalty.
+One thing I want to caution you about here is just something I commonly hear, and that
+is this reasoning in reverse.
+In other words, what this shows, and again what we often see, is that if we increase
+satisfaction, we’ll have more loyal customers.
+Great.
+What is not the case necessarily, is that firms with the largest customer bases which
+we might think about as being the more loyal customer bases, necessarily have the highest
+satisfaction.
+That is, you should not draw from this, the conclusion that the firms with the highest
+market share necessarily deliver the highest customer satisfaction.
+That is absolutely not the case, in general.
+In fact it is very often the opposite.
+Higher market shares for example is associated more commonly with lower customer satisfaction.
+And this isn’t very surprising if one thinks about it a little bit.
+The idea is that a bigger market share is commonly driven by a more mass-market, often
+value-driven approach, and that may not necessarily lead to long term customer satisfaction, but
+it may be a very good deal.
+Finally, just moving up to the top of this process here, what about the relationship
+between service level and satisfaction?
+Is it the case that if we improve service levels, customers will be more satisfied?
+Intuitively sure, it makes sense, however, I just want to note that there is an important
+caveat here.
+That is, we have to be careful about what we mean by ‘improving service.’
+So if I were a dry cleaner for example, better service may mean faster for some segments
+of customers, but it might mean a higher degree of customer interaction and possibly customization
+for some other customers.
+In fact, an increase in speed and efficiency, might actually represent a decrease in service
+and thus satisfaction for the latter segment.
+So again, as always, when assessing any aspect of our marketing implementation, including
+customer management, we need to identify who’s our target, what’s our positioning.
+For our target customer, and consistent with our promised benefits, what does service mean?
+And how can we improve it?
+So to summarize, What we’ve done here is we’ve laid out a model.
+A model for thinking about the process of building long-term value for our customers,
+and ultimately for the firm.
+That model begins with the delivery of a service, either as the core offering or perhaps ancillary
+to the physical product.
+If we plan and implement this properly, of course with a deep understanding of customer
+tastes and preferences, this should lead to satisfaction, which over the long run should
+lead to attitudinal loyalty, and ideally the firm will benefit from this loyalty in the
+form of greater long-run profits.
+But again we need to be aware of the limitations on our ability to do so.

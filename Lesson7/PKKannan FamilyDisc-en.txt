@@ -1,0 +1,44 @@
+- As we saw in the article,
+Spotify introduced family plans with discounts
+which reduced the average revenue per customer per month
+from 7.06 Euro in 2015
+to 5.24 Euro in 2017.
+Now is this a good move?
+Let's see what happened with the introduction
+of the family plan.
+Revenues per customer may have gone down,
+but retention rates have increased
+from 73% to 81% as we just saw.
+Margin as a percentage of revenues has gone up too,
+from 14% to 21%.
+The net effect of these increases in retention rates
+and margin percentage have more than compensated
+for the revenue decrease as a result of the family plan.
+Now why am I saying this?
+In 2015 margin times margin multiple
+was about $42.55.
+While in 2017 it has gone up to $60.35.
+So if the acquisition cost remained the same,
+customer lifetime value has actually increased.
+But what if margin remained at 14% in 2017 also?
+Then margin times margin multiple is only about $40.23,
+which is actually a slight decrease
+from the $42 that we had in 2015.
+But family plan makes acquisitions very easy.
+As more customers sign up, the customer base increases,
+and the fixed costs get covered over a larger customer base,
+so margins go up.
+So overall family discounting has really helped.
+The analysis that we just did was one just example
+of how customer lifetime value can be used as the metric
+to measure whether companies are doing the right thing
+in building the value of their firms.
+We can use customer lifetime value to measure the impact
+of marketing promotions, like this family plan,
+Pricing strategies, new ways to acquire customers
+and whether they are justifiable and a lot more.
+It also allows us to understand
+why customer satisfaction matters,
+why customer loyalty matters,
+as these impact retention rates positively
+which impact customer lifetime value positively.

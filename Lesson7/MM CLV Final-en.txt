@@ -1,0 +1,133 @@
+- Hi, my name is PK Kannan, the Dean's Chair
+in Marketing Science here at Smith.
+I research issues in the areas of
+customer relationship management, digital marketing,
+and marketing analytics.
+In this segment, we're gonna be looking
+at how to derive the expression for Customer Lifetime Value.
+It's a good idea to start thinking about a bond.
+A bond is something that you invest in
+at the beginning, you pay some dollars,
+and over the life of the bond, you're gonna get
+a steady stream of income, and at the end of the period
+of the bond, you get your redemption back.
+So you start off with some investment,
+you get some regular payouts,
+and then there is a redemption amount.
+Now if you want to know what is the return on investment
+that you did in this particular bond,
+you can actually take the Net Present Value
+of all the payments that you get,
+regular payouts and the redemption value,
+and then try to understand how this particular payment
+really gives you a return over
+the investment that you have made.
+Now, Measuring Customer Value
+is pretty much the same process.
+So over the lifetime of a customer,
+you start acquiring the customer
+providing some acquisition cost.
+And over the life of the customer,
+you're gonna get some payments.
+So here we are assuming that the acquisition cost
+for this example is $70.
+Think of this person as a customer
+that you have acquired for a bank.
+And once this customer has become a customer for the firm,
+this customer is gonna provide some steady margin.
+So here margin is revenue minus cost.
+And let's assume that the revenue is $100 a year
+with a cost of service fee $50
+so the bank makes a margin
+of $50 with this particular customer.
+Now, every year, when this person is a customer for the bank
+let's assume that he or she provides
+the same margin over time.
+Now, the next thing that I want to think about is retention.
+Now if you become a customer of a bank,
+you may remain a customer of the bank for some time,
+and if you get a better deal from another bank
+or if you move from this bank to some other place
+your retention rate will come into play
+which means not all customers that the bank acquires
+are gonna remain their customers at the end of the year.
+And this is governed by the retention rate that we have.
+Say the retention rate is 80%.
+Which means, if you bring in 100 customers,
+only 80 of them are gonna remain
+with you at the end of the year.
+And let's assume that this retention rate
+is gonna stay constant from year to year.
+So what is my expected margin after one year
+if the retention rate is 80%?
+So the margin we said was $50
+and retention rate is 0.8,
+and so I'm gonna take margin times the retention rate
+and this is the expected value of the margin
+after one year which is $40.
+So what's gonna happen if it's after two years?
+After two years, the expected value of this return is going
+to be margin times retention rate for the first year
+times the retention rate for the second year.
+So it's gonna be "m" times "r" squared which is
+m times 0.8 times 0.8 and that's gonna be $32.
+And I can do this to find out my expected margin
+after three years, which is gonna be
+m times r to the power of three and thus
+this is $32 times 0.8, which is $25.60.
+And that's what I have indicated there on the top.
+mr, mr squared, and then you have mr to the power four,
+and so on and so forth.
+Now let's look at
+the interest rate, cost of capital.
+Say the cost of capital is 10%.
+Now the income that you are getting one year from now
+at today's value can be captured using this expression.
+So m times r divided by 1+i, so this $40 that I got
+after one year divided by this 1.1. So the Net Present Value
+of this margin flow one year from now is gonna be $36.36.
+And I can do the same thing for Net Present Value
+of the margin flow after year two, which is gonna be
+this mr squared
+divided by 1+i squared
+and this turns out to be $26.45.
+And that's basically what I have there
+so this expression is mr divided by 1+i,
+mr squared divided by 1+i squared, and so on so forth.
+And if I were to take the overall
+flow of margins over time, this is gonna look like this
+and then I just write it as an expression here
+t going from 0 to infinity, is an infinite series
+m times r to the power of t divided by 1+i to the power t.
+Now it so happens that this is a geometric series
+that can be easily be combined
+and then you can get a close form solution for that
+and this expression then translates to
+m times 1+i divided by 1+i-r.
+So, this expression that you have here
+is called Margin Multiple and this is the margin.
+So the margin is multiplied by this
+margin multiple 1+i over 1+i-r and
+that's basically what the lifetime value of a customer is.
+So if i is the cost of capital, if r is the retention rate,
+m is the margin, and A is acquisition cost,
+the customer lifetime value is the sum of
+all Net Present Value margins minus the acquisition cost A,
+so that's basically what we have here
+m times 1+i over 1+i-r - A
+So this margin multiple that we have here
+has some interesting implications.
+So you look at this particular graph, table
+that we have here, it provides a margin multiple
+for different values of discount rates,
+interest rates, and retention rates.
+So if the retention rate is 60%
+and your interest rate is 12%,
+the margin multiple is 2.15.
+But if the retention rate goes up to 90%
+then the margin multiple goes up to 5.09.
+So the multiple goes from two to five.
+So this shows the retention rate has a great impact
+on the customer lifetime value
+and that really shows that customer lifetime value
+really can be impacted by the retention rates that we see.

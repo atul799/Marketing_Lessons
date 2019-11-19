@@ -1,0 +1,121 @@
+- Let's solve the cable coat problem together.
+How do we start to tackle this problem?
+To understand the value we create
+with our polymer strong coat,
+we need to understand if cable manufacturers
+will be able to sell cables made with it
+for more money than the generic covering.
+So what is the total economic value to building managers
+of 100 feet of cable covered with strong coat?
+First we need to determine the price
+of the next-best alternative cable.
+The case states that the cable covered in generic coating
+costs $6.50 per 100 feet.
+So that goes in the bottom box as our reference price.
+How are strong coat cables positively differentiated?
+Well, if you don't have to replace cables as often,
+you save five percent on the cost
+of the cable that you're purchasing.
+Or $6.50 times five percent which comes to 31 cents.
+The case also states that replacing cable
+costs about $60 in labor.
+So building managers would also
+do that five percent less frequently,
+or save $3 per hundred feet of cable.
+Because the cable fails less frequently,
+the building manager also anticipates fewer outage refunds.
+Outage refunds cost $40,
+if they happen during critical business hours.
+However those critical hours are only about 20%
+of the time the building is in use
+and if our cables covered in strong coat
+fail five percent less frequently,
+we can calculate the savings
+as $40 times the 20% for the critical business hours,
+times the five percent less frequently,
+which comes to 40 cents.
+So the total economic value
+of a cable covered in strong coat works out to $10.23
+However, as you may have noted,
+we're not in the cable-selling business.
+We sell the polymer that the cable coating is made from.
+So we have to figure out
+if a communications cable manufacturer
+can sell a cable coated in our polymer
+for $10.23, rather than $6.50,
+then what should they be willing to pay us per pound
+for our strong coat polymer?
+Well, what do we know
+about the cable coating polymer market?
+We know that the generic coating sells
+for 28 cents per pound to cable manufacturers.
+Now we want to be sure we get the units right,
+so what units have we been using so far?
+We've been working with 100 feet of cable.
+So how many pounds do we need to coat 100 feet of cable?
+The case tells us we need 16.25 pounds.
+So let's multiply 28 cents per pound times 16.25
+to get our prices in units of 100 feet of cable.
+That means that's the price of the next-best alternative.
+Our reference price for generic-coated cables is $4.55
+So to reiterate for $4.55,
+a cable maker can coat 100 feet of cable in generic polymer
+that sells for $6.50.
+Now, positive differentiation.
+How much more is a cable coated in strong coat worth
+to the cable manufacturer?
+Earlier we showed that it was worth $10.23,
+because of the value it creates for the building manager.
+That's an additional $3.73
+over what they sell the generic cable for.
+So that's the value added we really create
+for cable manufacturers.
+But is that all?
+No, there are some negatives.
+If the cables covered with strong coat fail less frequently,
+the cable manufacturers get to sell less cable,
+five percent less.
+And really the actual loss isn't on profit,
+not the full selling price.
+What's the cable maker's profit on 100 feet of cable?
+It's currently $6.50, what they sell it for,
+minus $4.55.
+Or $1.95 profit per 100 feet of cable.
+If they sell five percent less cable,
+that's about 10 cents less in profit.
+The case states explicitly that your boss has done
+quite a few customer interviews
+and knows that cable makers don't like to be beholden
+to a sole source.
+So we have to compensate them for that risk.
+That reduces our value created by about 33 cents.
+The case also states that cable makers
+will have higher selling costs,
+because they have to convince building managers
+that it's worth having these more reliable,
+more expensive cables.
+And that that higher selling cost is around $1.30
+for 100 feet of cable.
+So the total economic value of strong coat
+to the cable manufacturer, our customers,
+is equal to $4.55 plus our positive differentiation,
+which is $3.75.
+Then we subtract out our negative differentiators.
+10 cents, 33 cents, and $1.30.
+When you add up these numbers,
+you come to a total economic value
+of $6.55 per 100 feet of cable.
+Or to get that into pounds,
+we divide it by 16.25,
+arriving at 40 cents per pound of strong coat polymer.
+Now while it might be hard for us
+to visualize a two stage situation like this,
+you can imagine that if you were in the business,
+it would be more intuitive to you.
+And the arithmetic itself is easy.
+The challenge here, which is less obvious
+when the information is given to you,
+is understanding at a deep level,
+how your product creates value,
+not just for your customer,
+but for your customer's customer.

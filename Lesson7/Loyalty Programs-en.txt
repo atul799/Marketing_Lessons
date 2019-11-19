@@ -1,0 +1,29 @@
+Many companies adopt loyalty programs to entice customers to stay with them instead of switching
+to a competitor.
+But do they really work? Do the financial benefits of having a loyalty program justify
+the costs? Do loyalty program participants really stay?
+Imagine you are the marketing manager for Company “X” and are considering creating
+a loyalty program. You want to know if it would be worth the investment.
+Research by P. K. Kannan and colleagues can help.
+To find out if loyalty programs are worth it, Kannan and his colleagues studied three
+credit card companies in Europe that use loyalty programs. He made an analytical model investigating
+how customers decide to return to a company or go to a competitor. His model included
+several factors; including satisfaction, post-consumption assessment, comparison to the best competing
+alternative, re-patronage intentions, and so on.
+Kannan and his colleagues used two different methods to evaluate the model: a logistic
+regression to estimate customer’s decision on whether to use the card again, and the
+Tobit regression model to factor in account usage.
+Then he used maximum-likelihood test and t-test to see how accurate the results would be.
+Both analyses answered the core question: Do loyalty programs increase the customer’s
+satisfaction and usage of products?
+Kannan and his colleagues found that loyalty programs did a great job predicting whether
+customers remained loyal to the company.
+In fact, loyalty programs explained 85% of the customers decisions.
+So, why do loyalty programs seem to work?
+Kannan and his colleagues suspect that customers in loyalty programs are less likely to compare
+companies’ pricing, and notice drops in quality of service and increases in price.
+What more, his research showed that the loyalty program was associated with increased profit.
+Although this research focuses on credit card companies, the results are consistent with
+the common idea that loyalty programs work.
+Based on the results of Kannan’s research, company “X” should feel confident investing
+in a loyalty program.
